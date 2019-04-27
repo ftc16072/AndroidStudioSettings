@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="CUSTOMIZE_ACTIONS" value="Push&#10;Git" />
+    <property name="ColorChooser.RecentColors" value="233-194-14-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6544118" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Atom One Dark" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="(" />
+    <property name="SettingsSearchHistory" value="configure project structure&#10;SDK" />
+    <property name="TrendingPluginsSearchHistory" value="scheme&#10;git" />
+    <property name="android-component-compatibility-check" value="1556027131403" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.gist.reindex.count" value="451" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-Studio3.4-1" />
+    <property name="last.imported.location" value="$USER_HOME$/NonWorkProjects/ftc16072/ftc_2019_preseason-training_class" />
+    <property name="lastTip" value="47" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="newly.installed.api.level" value="23" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+  </component>
+</application>
