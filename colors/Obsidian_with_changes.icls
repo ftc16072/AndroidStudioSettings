@@ -1,4 +1,11 @@
-<scheme name="Obsidian" version="142" parent_scheme="Default">
+<scheme name="Obsidian_with_changes" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-04-27T12:40:50</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.4.0.18</property>
+    <property name="modified">2019-04-27T12:42:25</property>
+    <property name="originalScheme">Obsidian</property>
+  </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -606,6 +613,8 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3f3c" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
