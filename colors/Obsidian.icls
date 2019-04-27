@@ -205,6 +205,12 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="878787" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="a082bd" />
@@ -436,7 +442,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616161" />
+        <option name="BACKGROUND" value="464646" />
         <option name="ERROR_STRIPE_COLOR" value="616161" />
       </value>
     </option>
@@ -455,6 +461,24 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="9e9e9e" />
+        <option name="BACKGROUND" value="617183" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="617183" />
+        <option name="BACKGROUND" value="9e9e9e" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="9e9e9e" />
+        <option name="BACKGROUND" value="617183" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -569,7 +593,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616161" />
+        <option name="BACKGROUND" value="464646" />
         <option name="ERROR_STRIPE_COLOR" value="616161" />
       </value>
     </option>
