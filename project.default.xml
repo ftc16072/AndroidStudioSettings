@@ -2,6 +2,13 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/NonWorkProjects/ftc16072/2019preseason" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
       <component name="ProjectCodeStyleConfiguration">
         <code_scheme name="Project" version="173">
           <Objective-C-extensions>
@@ -33,6 +40,7 @@
       </component>
       <component name="PropertiesComponent">
         <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
       </component>
     </defaultProject>
   </component>
