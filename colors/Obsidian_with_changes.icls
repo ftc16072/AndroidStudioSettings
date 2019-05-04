@@ -3,7 +3,7 @@
     <property name="created">2019-04-27T12:40:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-04-27T12:42:25</property>
+    <property name="modified">2019-05-03T21:48:04</property>
     <property name="originalScheme">Obsidian</property>
   </metaInfo>
   <colors>
@@ -34,10 +34,10 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
-    <option name="SELECTED_TEARLINE_COLOR" value="804000" />
+    <option name="SELECTED_TEARLINE_COLOR" value="dbe31f" />
     <option name="SELECTION_BACKGROUND" value="804000" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
-    <option name="TEARLINE_COLOR" value="2f393c" />
+    <option name="TEARLINE_COLOR" value="717171" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
