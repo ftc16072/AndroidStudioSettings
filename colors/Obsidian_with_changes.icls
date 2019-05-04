@@ -3,7 +3,7 @@
     <property name="created">2019-04-27T12:40:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-05-03T21:48:04</property>
+    <property name="modified">2019-05-03T21:49:42</property>
     <property name="originalScheme">Obsidian</property>
   </metaInfo>
   <colors>
@@ -59,6 +59,11 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="878787" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
