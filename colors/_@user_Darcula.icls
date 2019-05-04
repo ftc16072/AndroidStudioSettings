@@ -3,7 +3,7 @@
     <property name="created">2019-04-27T07:35:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-05-03T21:52:35</property>
+    <property name="modified">2019-05-03T21:58:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -28,5 +28,6 @@
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
     <option name="SELECTED_TEARLINE_COLOR" value="dbe31f" />
+    <option name="TEARLINE_COLOR" value="9e9e9e" />
   </colors>
 </scheme>
