@@ -1,0 +1,11 @@
+<application>
+  <component name="PrintSettings">
+    <option name="includeSubdirectories" value="true" />
+    <option name="printScope" value="4" />
+    <option name="PAPER_SIZE" value="Engineering A" />
+    <option name="FONT_SIZE" value="8" />
+    <option name="EVEN_NUMBER_OF_PAGES" value="true" />
+    <option name="FOOTER_HEADER_TEXT1" value="$FILENAME$" />
+    <option name="FOOTER_HEADER_ALIGNMENT1" value="Center" />
+  </component>
+</application>
