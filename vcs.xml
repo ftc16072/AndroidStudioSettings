@@ -6,9 +6,13 @@
           <option name="url" value="git@github.com:ftc16072/2020preseason.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ftc16072/2020preseason" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/NonWorkProjects/ftc16072" />
+    <option name="cloneParentDir" value="$USER_HOME$/NonWorkProjects/ftc16072/test" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
